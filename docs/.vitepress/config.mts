@@ -6,7 +6,6 @@ import UnoCSS from 'unocss/vite'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/docs/',
   vite: {
     plugins: [
       UnoCSS()
