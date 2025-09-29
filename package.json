@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@unocss/preset-attributify": "^66.5.1",
+    "@unocss/preset-icons": "^66.5.1",
+    "@unocss/preset-uno": "^66.5.1",
+    "@unocss/preset-web-fonts": "^66.5.1",
+    "@unocss/transformer-directives": "^66.5.1",
+    "@unocss/transformer-variant-group": "^66.5.1",
+    "unocss": "^66.5.2",
+    "vitepress": "^2.0.0-alpha.12"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mathjax3": "^4.3.2"
+  }
+}
