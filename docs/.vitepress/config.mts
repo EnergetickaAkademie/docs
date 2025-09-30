@@ -22,8 +22,8 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Scénáře',
-        link: '/scenarios/'
+        text: 'Workshop 6./7. třída',
+        link: '/enak/'
       },
       {
         text: '3D modely',
@@ -33,6 +33,10 @@ export default defineConfig({
           { text: 'Modely elektráren', link: '/3d/elektrarny' },
           { text: 'Modely krajiny', link: '/3d/krajina' },
         ]
+      },
+      {
+        text: 'Scénáře',
+        link: '/scenarios/'
       },
       {
         text: 'Softwarová implementace',
