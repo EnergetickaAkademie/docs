@@ -18,17 +18,18 @@ Kolekce 3D modelů různých typů budov pro energetické simulace a vizualizace
 
 ## Dostupné modely
 
-| Budova                | Popis                              |
+| Budova                | Počet                              |
 |----------------------|-----------------------------------|
-| Bytové domy          | ?x na tým         |
-| Domečky			   | ?x na tým         |
-| Farma                | ?x na tým         |
-| Letiště              | ?x na tým         |
-| Náměstí              | ?x na tým         |
-| Nemocnice            | ?x na tým         |
-| Obchodní centrum     | ?x na tým         |
-| Škola                | ?x na tým         |
-| Stadion              | ?x na tým         |
-| Technologické centrum| ?x na tým         |
-| Továrna              | ?x na tým         |
-| Univerzita           | ?x na tým         |
+| Bytové domy          | 3x na tým         |
+| Domečky			   | 6x na tým         |
+| Farma                | 3x na tým         |
+| Letiště              | 1x na tým         |
+| Náměstí              | 1x na tým         |
+| Nemocnice            | 1x na tým         |
+| Obchodní centrum     | 2x na tým         |
+| Škola                | 1x na tým         |
+| Stadion              | 2x na tým         |
+| Technologické centrum| 1x na tým         |
+| Továrna              | 2x na tým         |
+| Univerzita           | 1x na tým         |
+| Celkem               | 24                |

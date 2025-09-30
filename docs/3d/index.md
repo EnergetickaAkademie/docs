@@ -15,6 +15,6 @@ features:
     link: /3d/elektrarny/
   - title: Modely krajiny
     details: 3d modely krajiny
-    link: /3d/krajiny/
+    link: /3d/krajina/
 ---
 

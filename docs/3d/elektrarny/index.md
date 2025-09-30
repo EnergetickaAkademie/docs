@@ -18,7 +18,7 @@ Kolekce 3D modelů různých typů elektráren a energetické infrastruktury.
 ## Dostupné modely
 
 
-| Elektrárna               | Popis                              |
+| Elektrárna               | Počet                              |
 |-------------------------|-----------------------------------|
 | Bateriové úložiště      | 1x na tým                          |
 | Jaderná elektrárna      | 1x na tým                          |
@@ -30,3 +30,4 @@ Kolekce 3D modelů různých typů elektráren a energetické infrastruktury.
 | Uhelná elektrárna       | 2x na tým                          |
 | Větrná elektrárna       | 1x na tým                          |
 | Vodní průtoční elektrárna| 1x na tým                          |
+| Celkem                  | 10                                 |

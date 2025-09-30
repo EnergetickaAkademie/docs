@@ -47,6 +47,16 @@ onMounted(() => {
       'uhelka.webp': 'Uhelná elektrárna',
       'vetrna.webp': 'Větrná elektrárna',
       'vodni.webp': 'Vodní elektrárna'
+    },
+    kachle: {
+      'hreben.webp': 'Hřeben',
+      'precerpavacka.webp': 'Kopec',
+      'kachle_jezirko.webp': 'Jezírko',
+      'kachle_more_1.webp': 'Moře',
+      'kachle_more_roh.webp': 'Rohové moře',
+      'kachle_prazdna.webp': 'Louka',
+      'kachle_reka_1.webp': 'Řeka',
+      'kachle_reka_2.webp': 'Rohová řeka'
     }
   }
   
