@@ -6,13 +6,16 @@
     "@unocss/preset-web-fonts": "^66.5.1",
     "@unocss/transformer-directives": "^66.5.1",
     "@unocss/transformer-variant-group": "^66.5.1",
+    "esbuild": "^0.25.10",
     "unocss": "^66.5.2",
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "^2.0.0-alpha.12",
+    "vitepress-export-pdf": "^1.0.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "export-pdf": "press-export-pdf export docs"
   },
   "dependencies": {
     "markdown-it": "^14.1.0",

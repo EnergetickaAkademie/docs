@@ -45,7 +45,7 @@ Workhop je složen z 5 týmů, kdy každý z týmů dostane jeden kontrolní pan
 
 ### Krajina
 
-| Elektrárna               | Počet                              |
+| Krajina               | Počet                              |
 |-------------------------|-----------------------------------|
 | Hřeben                  | 1x na tým                          |
 | Kopec                   | 1x na tým                          |

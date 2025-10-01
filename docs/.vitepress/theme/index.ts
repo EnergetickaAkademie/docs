@@ -2,6 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import type { App } from 'vue'
 import 'uno.css'
 import './style.css'
+import './styles/print.css'
 import Inline from './components/Inline.vue'
 import ImageGallery from './components/ImageGallery.vue'
 
