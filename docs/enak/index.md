@@ -43,6 +43,10 @@ Workhop je složen z 5 týmů, kdy každý z týmů dostane jeden kontrolní pan
 | Vodní průtoční elektrárna| 1x na tým                          |
 | Celkem                  | 10                                 |
 
+:::info Zabalení elektráren
+<Inline style="width:49%;">/img/enak/package.webp</Inline> <Inline style="width:49%;">/img/enak/package1.webp</Inline>
+:::
+
 ### Krajina
 
 | Krajina               | Počet                              |
