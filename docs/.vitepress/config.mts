@@ -29,6 +29,7 @@ export default defineConfig({
         text: '3D modely',
         items:
         [
+          { text: 'Jak vytisknout workshop', link: '/3d/tisk' },
           { text: 'Modely budov', link: '/3d/budovy' },
           { text: 'Modely elektráren', link: '/3d/elektrarny' },
           { text: 'Modely krajiny', link: '/3d/krajina' },

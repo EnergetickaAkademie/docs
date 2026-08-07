@@ -19,7 +19,9 @@ Toto nastavení by již mělo být nastaveno ve stažených projektech.
 
 ## Modely elektráren
 
-Modely jsou vždy rozděleny na podstavy a samotné budovy (ty jsou většinou vícebarevné, vždy lze tisknout jednobarevně a poté dobarvit nebo nechat), doporučuji vše tisknout v připravené orientaci (při tisknu na plocho vyžadují podstavy podpory které se velmi těžko odstraňují).
+Modely jsou vždy rozděleny na podstavy a samotné budovy (ty jsou většinou vícebarevné, vždy lze tisknout jednobarevně a poté dobarvit nebo nechat), doporučuji vše tisknout v připravené orientaci
+(při tisknu na plocho vyžadují podstavy podpory které se velmi těžko odstraňují, doporučuji je tedy tisknout na výšku).
+
 Po vytisknutí přilepte budovy k podstavám pomocí tavné pistole nebo jiného lepidla.
 
 Každá z elektráren navíc vyžaduje k vytištění `powerplant_tray.3mf`, který se vejde do připraveného otvoru v každé z podstav, kam se poté vloží PCB destička pro danou elektrárnu.
