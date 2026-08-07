@@ -7,6 +7,9 @@ hero:
   tagline: 
 
 features:
+  - title: Jak tisknout
+    details: Jak workshop vytisknout
+    link: /3d/tisk/
   - title:  Modely budov
     details: 3D modely budov
     link: /3d/budovy/

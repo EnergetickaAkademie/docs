@@ -25,11 +25,3 @@ features:
       src: /img/github-color.svg
     details: GitHub repozotáře se softwarovou implementací
     link: /github/
-  - title: List součástek
-    icon: 📋
-    details: Seznam použitých součástek ve workshopu
-    link: /parts/
-  - title: Schémata
-    icon: 📐
-    details: Schémata zapojení a návrhy PCB
-    link: /schematics/

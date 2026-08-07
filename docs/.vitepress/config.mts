@@ -42,14 +42,14 @@ export default defineConfig({
         text: 'Softwarová implementace',
         link: '/github/'
       },
-      {
+      /*{
         text: 'List součástek',
         link: '/parts/'
       },
       {
         text: 'Schémata',
         link: '/schematics/'
-      },
+      },*/
     ],
 
     socialLinks: [
