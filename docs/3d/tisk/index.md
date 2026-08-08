@@ -58,12 +58,14 @@ Aby voda z věže pro jaderku a uhelku neprotékala můžete zvýšit počet spo
 Stáhněte si soubor `budovy_2B.3mf`, nachází se v něm všechny budovy, každá na vlastním tiskovém plátě. Budovy jsou odlišeny barevně tak, že malé (M) a velké (V) budovy mají jinou barvu, aby byly lehce rozpoznatelné.
 
 :::warning Pauza při tisku
-Ve staženém projektu by již měla být nastaveno pozastavení tisku na vrstvě 6, při které musíte vlepit NFC nálepky dovnitř modelu, tak aby se budovy daly během workshopu načíst na hlavním panelu. Zkontrolujte před tiskem, že se pozastavení skutečně vykoná,
+Ve staženém projektu by již mělo být nastaveno pozastavení tisku na vrstvě 6, při kterém musíte vlepit NFC nálepky dovnitř modelu, tak aby se budovy daly během workshopu načíst na hlavním panelu. Zkontrolujte před tiskem, že se pozastavení skutečně vykoná:
 
 ![trayhole](/img/tisk/nfc.avif)
 
 NFC nálepky se hodí například tyto:
-[https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/](https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/)
+
+- [https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/](https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/) [10ks]
+- [https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302](https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302) [50ks]
 :::
 
 Vytiskněte tento počet budov:

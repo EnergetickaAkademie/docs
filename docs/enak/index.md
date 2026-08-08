@@ -5,6 +5,10 @@ outline: deep
 
 # Workshop ENAK pro 6. a 7. třídu
 
+:::danger Info pro verzi 2.0
+Tento návod bude postupem času upraven pro druhou verzi workshopu. Většina informací by měla zůstat podobná, design a UI se může mírně lišit.
+:::
+
 ## Seznam součástí workshopu
 
 Workhop je složen z 5 týmů, kdy každý z týmů dostane jeden kontrolní panel označený číslem týmu (se síťovým zdrojem a baterií) + svorku k uchycení panelu k lavici (černo růžová). Kromě toho také každý tým dostane sadu 3D vytištěných budov, elektráren a krajin.
