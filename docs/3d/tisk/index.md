@@ -6,7 +6,7 @@ outline: deep
 # Jak vytisknout workshop na 3D tiskárně
 
 :::info Odkaz ke stažení
-Stáhněte si modely z tohoto [odkazu](https://drive.google.com/drive/folders/1FOzqfMp_tN2IHXDmlq06NettOhObE4P2?usp=sharing).
+Stáhněte si modely z tohoto [odkazu](https://drive.google.com/drive/folders/1FOzqfMp_tN2IHXDmlq06NettOhObE4P2).
 :::
 
 Modely jsou připravené ve formátu `.3mf`, což je formát schopný ukládat projekty pro 3d tisk společně s barvami a modifikátory tisku. Připraven byl v programu Bambu Studio, měl by jít otevřít i v programech OrcaSlicer i PrusaSlicer.
@@ -90,4 +90,15 @@ TBD
 
 ## Ovládací panel
 
-TBD
+Pro tisk ovládacího panelu musíte vytisknout:
+
+- 5x krabičku na baterii (spodní a vrchní díl s ikonou baterie) v `batterybox.3mf`, je vymodelován pro tuto powerbanku - [alza.cz](https://www.alza.cz/ugreen-45w-power-bank-with-built-in-cable-d13196498.htm)
+- 5x krabičku na hlavní desku (spodek krabičky a 1x vršek od každého čísla týmu) v `mainbox.3mf`
+- 3x pro každý tým sadu ovládacích panelů v `ovladani.3mf` (vždy se jedná a pár vrchního dílu s ikonkami a spodního dílu bez ikonek)
+- 5x ukazatel výroby a spotřeby v `vyroba_spotreba.3mf`
+
+Pro každý tým byste tedy měli mít:
+- 1x krabičku na baterii (spodek a vršek)
+- 1x krabičku na hlavní desku (spodek a vršek)
+- 3x panel s ikonkami (spodek a vršek)
+- 1x panel se spotřebou
