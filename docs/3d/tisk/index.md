@@ -7,9 +7,11 @@ outline: deep
 
 :::info Odkaz ke stažení
 Stáhněte si modely z tohoto [odkazu](https://drive.google.com/drive/folders/1FOzqfMp_tN2IHXDmlq06NettOhObE4P2).
+
+***Před tiskem si, prosím, přečtěte připomínky k tisku uvedené na této stránce.***
 :::
 
-Modely jsou připravené ve formátu `.3mf`, což je formát schopný ukládat projekty pro 3d tisk společně s barvami a modifikátory tisku. Připraven byl v programu Bambu Studio, měl by jít otevřít i v programech OrcaSlicer i PrusaSlicer.
+Modely jsou připravené ve formátu `.3mf`, což je formát schopný ukládat projekty pro 3d tisk společně s barvami a modifikátory tisku. Připraveny byly v programu Bambu Studio, měly by jít otevřít i v programech OrcaSlicer i PrusaSlicer.
 
 :::danger Nastavení tisku
 Doporučuji tisknout vše s výplní nastavenou na `adaptive cubic` (hlavně ne rectilinear), případně `gyroid`, wall generator nastavte na `arachne`, pokud jsou potřeba supports, zvolte typ `tree`.
@@ -57,7 +59,7 @@ Aby voda z věže pro jaderku a uhelku neprotékala můžete zvýšit počet spo
 
 Stáhněte si soubor `budovy_2B.3mf`, nachází se v něm všechny budovy, každá na vlastním tiskovém plátě. Budovy jsou odlišeny barevně tak, že malé (M) a velké (V) budovy mají jinou barvu, aby byly lehce rozpoznatelné.
 
-:::warning Pauza při tisku
+:::danger Pauza při tisku
 Ve staženém projektu by již mělo být nastaveno pozastavení tisku na vrstvě 6, při kterém musíte vlepit NFC nálepky dovnitř modelu, tak aby se budovy daly během workshopu načíst na hlavním panelu. Zkontrolujte před tiskem, že se pozastavení skutečně vykoná:
 
 ![trayhole](/img/tisk/nfc.avif)
@@ -86,7 +88,35 @@ Vytiskněte tento počet budov:
 
 ## Krajina (kachle)
 
-TBD
+Stáhněte si model `kachle.3mf` a vytiskněte následný počet kusů herních desek (počet klidně můžete upravit podle svých potřeb):
+
+| Kachle                  | Počet                              |
+|-------------------------|------------------------------------|
+| Hřeben                  | 1x na tým                          |
+| Kopec                   | 1x na tým                          |
+| Jezírko                 | 2x na tým                          |
+| Moře                    | 2x na tým                          |
+| Moře roh                | 2x na tým                          |
+| Louka                   | 4x na tým                          |
+| Řeka                    | 2x na tým                          |
+| Rohová řeka             | 2x na tým                          |
+| Celkem                  | 16                                 |
+
+:::danger Magnety
+Zkontrolujte, zda se na každé hraně desky vyskytují dvě díry pro magnety (celkem osm na desku), které se do nich vlepí aby desky držely pospolu. Velikost těchto magnetů je **20x5x2mm** a dají se sehnat například na [https://www.aliexpress.com/item/1005010040308548.html](https://www.aliexpress.com/item/1005010040308548.html).
+
+Orientace magnetů se musí střídat, vždy severní a jižní pól na stejná místa na každé desce, tak aby do sebe desky zacvakly v každé konfiguraci:
+
+![magnety](/img/tisk/magnets.avif)
+:::
+
+:::warning Vícebarevný tisk
+V modelech jsou nastaveny modifikátory barvy tisku podle vrstvy; pro kachle moří (žlutá->zelená, tak aby vynikla pláž), a kachli hřebenu (zelená->bílá). Zkontrolujte zda výměna barvy proběhne v porádku.
+
+![magnety](/img/tisk/more1.avif)
+
+Voda je tisknuta samostatně, a po vytisknutí je nutné ji přilepit k dané desce.
+:::
 
 ## Ovládací panel
 
@@ -102,3 +132,7 @@ Pro každý tým byste tedy měli mít:
 - 1x krabičku na hlavní desku (spodek a vršek)
 - 3x panel s ikonkami (spodek a vršek)
 - 1x panel se spotřebou
+
+## Ostatní
+
+Pro vyjmutí difuzérů z chladících věží si vytiskněte model `puller.stl`, který vám umožní dolévání vody, aby difuzéry nepřestaly fungovat.

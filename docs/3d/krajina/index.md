@@ -18,8 +18,8 @@ Kolekce 3D modelů různých typů elektráren a energetické infrastruktury.
 ## Dostupné modely
 
 
-| Elektrárna               | Počet                              |
-|-------------------------|-----------------------------------|
+| Kachle                  | Počet                              |
+|-------------------------|------------------------------------|
 | Hřeben                  | 1x na tým                          |
 | Kopec                   | 1x na tým                          |
 | Jezírko                 | 2x na tým                          |
