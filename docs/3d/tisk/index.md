@@ -50,10 +50,13 @@ Stáhněte si a vytiskněte:
 | vodni.3mf               | 1x na tým                          |
 
 :::warning Vodní elektrárna
-Vodní elektrárna má od 3D designéra rozbitou geometrii, tedy se ve sliceru může chovat zvláštně. Je rozdělena na tři části - vodu a budovu, které by po vytisknutí měly jít složit dohromady.
+Vodní elektrárna má od 3D designéra rozbitou geometrii, tedy se ve sliceru může chovat zvláštně. Je rozdělena na tři části - vodu, budovu a podstavu, které by po vytisknutí měly jít složit dohromady.
+
+Takto by ve sliceru měla vypadat vodní (modrá) část elektrárny po naslicování (pouze neprůsvitná část se vytiskne, to je správně):
+![vodni](/img/tisk/vodni.avif)
 :::
 
-:::warning Chladící věž
+:::tip Chladící věž
 Aby voda z věže pro jaderku a uhelku neprotékala můžete zvýšit počet spodních vrstev (`bottom shell layers`) a perimetrů (`wall loops`), v mém testování se základní nastavení zdálo jako vyhovující a nic neprotékalo, ale člověk nikdy neví.
 :::
 
