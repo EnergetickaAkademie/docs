@@ -133,12 +133,14 @@ Pro tisk ovládacího panelu musíte vytisknout:
 - 5x krabičku na hlavní desku (spodek krabičky a 1x vršek od každého čísla týmu) v `mainbox.3mf`
 - 3x pro každý tým sadu ovládacích panelů v `ovladani.3mf` (vždy se jedná a pár vrchního dílu s ikonkami a spodního dílu bez ikonek)
 - 5x ukazatel výroby a spotřeby v `vyroba_spotreba.3mf`
+- 25x knoflík pro rotační enkodéry v `cap.3mf`
 
 Pro každý tým byste tedy měli mít:
 - 1x krabičku na baterii (spodek a vršek)
 - 1x krabičku na hlavní desku (spodek a vršek)
 - 3x panel s ikonkami (spodek a 3 různé vršky)
 - 1x panel se spotřebou a výrobou
+- 5x knoflík na enkodéry
 
 ## Ostatní
 
