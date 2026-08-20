@@ -13,6 +13,10 @@ Stáhněte si modely z tohoto [odkazu](https://drive.google.com/drive/folders/1F
 
 Modely jsou připravené ve formátu `.3mf`, což je formát schopný ukládat projekty pro 3d tisk společně s barvami a modifikátory tisku. Připraveny byly v programu Bambu Studio, měly by jít otevřít i v programech OrcaSlicer i PrusaSlicer.
 
+:::warning Prusa
+Pro tisk na tiskárnách od Průši doporučuji otevřít projekt v OrcaSliceru (měl by vpořádku otevřít projekty z Bambu Studia), a pak přepnout tisknárnu nahoře vlevo na tu danou kterou máte. Zkontrolujte barvy modelu, případně je obravěte nazpět. OrcaSlicer by měl mít teroeticky lepší komunitní podporu pro jiné tiskárny, než má Bambu Studio.
+:::
+
 :::tip Nastavení tisku
 Doporučuji tisknout vše s výplní nastavenou na `adaptive cubic` (hlavně ne rectilinear), případně `gyroid`, wall generator nastavte na `arachne`, pokud jsou potřeba supports, zvolte typ `tree`.
 
