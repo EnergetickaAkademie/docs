@@ -68,7 +68,7 @@ Aby voda z věže pro jaderku a uhelku neprotékala můžete zvýšit počet spo
 
 ***Před tiskem se ujistěte, že máte k dispozici vhodné NFC nálepky pro vlepení do vnitra modelů, viz info níže.***
 
-Stáhněte si soubor `budovy_2B.3mf`, nachází se v něm všechny budovy, každá na vlastním tiskovém plátě. Budovy jsou odlišeny barevně tak, že malé (M) a velké (V) budovy mají jinou barvu, aby byly lehce rozpoznatelné.
+Stáhněte si soubor dvoubarevných budov `budovy_2B.3mf` (případně tříbarevných `budovy_3B.3mf`), nachází se v něm všechny budovy, každá na vlastním tiskovém plátě. Budovy jsou odlišeny barevně tak, že malé (M) a velké (V) budovy mají jinou barvu, aby byly lehce rozpoznatelné.
 
 :::danger Pauza při tisku pro vlepení NFC tagů
 Ve staženém projektu by již mělo být nastaveno pozastavení tisku na vrstvě 6, při kterém musíte vlepit NFC nálepky dovnitř modelu, tak aby se budovy daly během workshopu načíst na hlavním panelu. Zkontrolujte před tiskem, že se pozastavení skutečně vykoná:
@@ -79,6 +79,16 @@ NFC nálepky se hodí například tyto:
 
 - [https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/](https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/) [10ks]
 - [https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302](https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302) [50ks]
+:::
+
+:::warning Budovy 3B
+U tříbarevných budov zkontrolujte, zda je po naslicování čitelný spodní text s názvem budovy a spotřebou ve dne v noci (u dvoubarevných je místo změny materiálu pro barevný text vytvořena díra ve tvaru textu).
+
+2B:
+![trayhole](/img/tisk/2B.avif)
+
+3B:
+![trayhole](/img/tisk/3B.avif)
 :::
 
 Vytiskněte tento počet budov:
