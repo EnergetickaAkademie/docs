@@ -75,8 +75,9 @@ Ve staženém projektu by již mělo být nastaveno pozastavení tisku na vrstv�
 
 ![trayhole](/img/tisk/nfc.avif)
 
-NFC nálepky se hodí například tyto:
+NFC nálepky se hodí například tyto (NTAG213 nebo 215):
 
+- [https://www.aliexpress.com/item/1005012562715589.html](https://www.aliexpress.com/item/1005012562715589.html) [100ks]
 - [https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/](https://www.laskakit.cz/nfc-nalepka-inlay-tag--ntag215--25mm-10ks/) [10ks]
 - [https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302](https://allegro.cz/nabidka/tag-nfc-ntag215-samolepka-etiketa-13-56mhz-prazdna-programovatelna-bila-50x-18160004302) [50ks]
 :::
@@ -143,7 +144,7 @@ Voda je tisknuta samostatně, a po vytisknutí je nutné ji přilepit k dané de
 
 Pro tisk ovládacího panelu musíte vytisknout:
 
-- 5x krabičku na baterii (spodní a vrchní díl s ikonou baterie) v `batterybox.3mf`, je vymodelován pro tuto powerbanku - [alza.cz](https://www.alza.cz/ugreen-45w-power-bank-with-built-in-cable-d13196498.htm)
+- 5x krabičku na baterii (spodní a vrchní díl s ikonou baterie) v `batterybox.3mf`, je vymodelován pro tuto powerbanku - [alza.cz](https://www.alza.cz/ugreen-45w-power-bank-with-built-in-cable-d13196498.htm) (pokud chcete workshop napájet přímo ze sítě nabíječkou není potřeba)
 - 5x krabičku na hlavní desku (spodek krabičky a 1x vršek od každého čísla týmu) v `mainbox.3mf`
 - 3x pro každý tým sadu ovládacích panelů v `ovladani.3mf` (vždy se jedná a pár vrchního dílu s ikonkami a spodního dílu bez ikonek)
 - 5x ukazatel výroby a spotřeby v `vyroba_spotreba.3mf`

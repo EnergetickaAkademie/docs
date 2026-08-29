@@ -9,9 +9,15 @@ Kolekce 3D modelů různých typů elektráren a energetické infrastruktury.
 
 ## Repozitář modelů budov
 
+:::info Odkaz ke stažení
+Stáhněte si modely v sekci [*Jak vytisknout workshop*](../tisk/).
+:::
+
+<!--
 :::info 3D modely
 3D modely jsou v Blender a STL formátu dostupné na [Google Drive](https://drive.google.com/drive/folders/)
 :::
+-->
 
 <ImageGallery folder="kachle" />
 
