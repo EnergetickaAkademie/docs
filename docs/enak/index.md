@@ -134,7 +134,9 @@ outline: deep
 
 ## Seznam součástí workshopu
 
-Workhop je složen z 5 týmů, kdy každý z týmů dostane bednu s elektrárnami, hlavním panelem a power bankou; bednu s budovami; a bedny s krajinou. Každý s týmů také dostane 2 chladící věže naplněné vodou s difuzéry pro jadernou a uhelnou elektrárnu (všechny jsou zabaleny v jedné krabici).
+Workhop je složen z 5 týmů, kdy každý z týmů dostane bednu s elektrárnami, hlavním panelem a power bankou; bednu s budovami; a bedny s krajinou. Každý z týmů také dostane 2 chladící věže naplněné vodou s difuzéry pro jadernou a uhelnou elektrárnu (všechny jsou zabaleny v jedné krabici).
+
+Zde jsou uvedeny počty všech součástí workshopu pro každý z týmů:
 
 <div class="inventory-tables">
   <section class="inventory-table-card">
