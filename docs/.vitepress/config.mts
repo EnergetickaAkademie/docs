@@ -23,7 +23,11 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Workshop 6./7. třída',
-        link: '/enak/'
+        items:
+        [
+          { text: 'Nová v2', link: '/enak/' },
+          { text: 'Stará v1', link: '/enak/v1/' },
+        ]
       },
       {
         text: '3D modely',
