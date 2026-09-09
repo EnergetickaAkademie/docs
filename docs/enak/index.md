@@ -130,7 +130,7 @@ outline: deep
 }
 </style>
 
-# Workshop Energetická akademie pro 6. a 7. třídu
+# Workshop Energetická akademie pro 6. a 7. třídu V2
 
 ## Seznam součástí workshopu
 

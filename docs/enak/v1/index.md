@@ -3,7 +3,7 @@ title: ENAK
 outline: deep
 ---
 
-# Workshop ENAK pro 6. a 7. třídu
+# Workshop ENAK pro 6. a 7. třídu V1
 
 :::danger Info pro verzi 2.0
 Tento návod bude postupem času upraven pro druhou verzi workshopu. Většina informací by měla zůstat podobná, design a UI se může mírně lišit.
