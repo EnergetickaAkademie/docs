@@ -17,7 +17,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Domů', link: '/' },
-      { text: 'Energetická akademie', link: 'https://enak.cz' }
+      { text: 'ENAK v2', link: 'https://v2.enak.cz' },
+      { text: 'ENAK v1', link: 'https://enak.cz' },
+      { text: 'Energetická gramotnost', link: 'https://egram.cz' },
+      { text: 'Tech Republic', link: 'https://www.techrepublic.cz' },
     ],
 
     sidebar: [

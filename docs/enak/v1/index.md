@@ -173,7 +173,7 @@ Jednotlivé fáze hry jsou následující (vždy Slide, Den, Noc)
 - Ekologie - jak moc nízkoemisních zdrojů používali
 - Finance - jak moc jejich elektřina stála (merit order)
 - Stabilita - jak dobře vyvažovali soustavu
-- Popularita - mix ostatních faktorů, + jak moc energie vygenerovali (závisí na počtu postavených budov)
+- Popularita - průměr Ekologie, Financí, Stability a Rozvoje města; všechny faktory mají stejnou váhu
 
 ![stats](/img/enak/stats.webp)
 ![stats_plot](/img/enak/stats_plot.webp)

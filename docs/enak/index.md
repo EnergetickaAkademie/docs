@@ -130,11 +130,11 @@ outline: deep
 }
 </style>
 
-# Workshop ENAK pro 6. a 7. třídu
+# Workshop Energetická akademie pro 6. a 7. třídu
 
 ## Seznam součástí workshopu
 
-Workhop je složen z 5 týmů, kdy každý z týmů dostane bednu s elektrárnami, hlavním panelem a power bankou; bednu s budovami; a bedny s krajinou. Každý z týmů také dostane 2 chladící věže naplněné vodou s difuzéry pro jadernou a uhelnou elektrárnu (všechny jsou zabaleny v jedné krabici).
+Workhop je složen z 5 týmů, kdy každý z týmů dostane bednu s elektrárnami, hlavním panelem, power bankou a budovami; a bedny s krajinou. Každý z týmů také dostane 2 chladící věže naplněné vodou s difuzéry pro jadernou a uhelnou elektrárnu (všechny jsou zabaleny v jedné krabici).
 
 Zde jsou uvedeny počty všech součástí workshopu pro každý z týmů:
 
@@ -198,6 +198,14 @@ Zde jsou uvedeny počty všech součástí workshopu pro každý z týmů:
     </table>
   </section>
 </div>
+
+### Ke stažení 
+
+- [Seznam a počty elektráren a budov](/pdf/seznam_soucastek.pdf)
+- [Samolepky krajiny na krabice](/pdf/samolepky_krajina.pdf)
+- [Samolepky NFC karet](/pdf/samolepky_nfc_karty.pdf)
+
+## Zabalení elektráren
 
 :::danger Zabalení elektráren
 type: info
@@ -276,10 +284,10 @@ Uhelné a jaderné elektrárny je potřeba naplnit vodou, pro funkčnost nebuliz
 - nebulizér vraťte zpět a zatlačte ho dokud silikonová část nedolehne (aby byl plně uvnitř, poznáte to podle správné výšky USB portu ze strany, pozor na správnou orientaci).
 - Doporučuji potom po zasunutí otočit věž a vylít přebytečnou vodu která se zasekla ve svrchní části elektrárny, také tím otestujete, že nebulizér správně sedí.
 
-Pokud by při workshopu nebulizér přestal fungovat - zhaslo modrá LEDka která na něm normálně svítí - stiskněte malé tlačítko které se nachází vedle horního USB portu.
+Pokud by při workshopu nebulizér přestal fungovat - zhasla modrá LEDka která na něm normálně svítí - stiskněte malé tlačítko které se nachází vedle horního USB portu na difuzéru.
 :::
 
-Po zapojení všech týmů by se měly na webu objevit všechny se statusem Připojeno. V ten moment stačí vybrat scénář a spustit ho.
+Po zapojení všech týmů by se měly na webu objevit všechny se statusem *Připojeno*. V ten moment stačí vybrat scénář a spustit ho.
 ![scenare](/img/enak/scenare.webp)
 
 ### Barevné kódy RGB diody hlavního panelu
@@ -426,14 +434,6 @@ Jednotlivé fáze hry jsou následující (vždy Slide, Den, Noc)
 - Spotřeba přidaných stadionů se zvyšuje
 - Na konci této fáze nutně nastává blackout
 
-:::warning TODO
-TODO
-TODO
-TODO
-
-nasledující sekci přepsat
-:::
-
 ### Blackout a vyhodnocení hry
 
 - Slidy o blackoutu
@@ -441,9 +441,12 @@ nasledující sekci přepsat
 - Ekologie - jak moc nízkoemisních zdrojů používali
 - Finance - jak moc jejich elektřina stála (merit order)
 - Stabilita - jak dobře vyvažovali soustavu
-- Popularita - mix ostatních faktorů, + jak moc energie vygenerovali (závisí na počtu postavených budov)
+- Rozvoj města - jak moc každý tým stavěl a rozvíjel tak své město
+- Popularita - průměr Ekologie, Financí, Stability a Rozvoje města; všechny faktory mají stejnou váhu
 
-![stats](/img/enak/stats.webp)
-![stats_plot](/img/enak/stats_plot.webp)
+V dolní části statistik je vidět celková energetická bilance týmu, kolik každý z týmů vyrobil a spotřeboval energie.
 
-Ze stránky statistik se dá opět odejít stisknutím tlačítka `ESC`.
+![stats](/img/enak/v2/stats.avif)
+<!--![stats_plot](/img/enak/stats_plot.webp)-->
+
+Ze stránky statistik se dá opět odejít po stisknutí šipky zpět v horním panelu.

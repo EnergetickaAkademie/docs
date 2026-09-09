@@ -8,7 +8,7 @@ hero:
   tagline: "projektová dokumentace pro enak.cz"
 
 features:
-  - title: Workshop 6./7. třída
+  - title: Energetická akademie
     icon: ⚡
     details: Návod pro zprovoznění workshopu ENAK
     link: /enak/
