@@ -207,16 +207,21 @@ Zde jsou uvedeny počty všech součástí workshopu pro každý z týmů:
 
 ## Zabalení elektráren
 
-:::danger Zabalení elektráren
-type: info
+:::tip Zabalení elektráren
 
-TODO
+Při balení uložte jednotlivé části workshopu do krabice podle následujících kroků:
 
-TODO
+<PhotoCompare
+  :items="[
+    { src: '/img/enak/v2/baleni/b4.avif', label: '1. krok', alt: 'První krok balení budov' },
+    { src: '/img/enak/v2/baleni/b3.avif', label: '2. krok', alt: 'Druhý krok balení budov' },
+    { src: '/img/enak/v2/baleni/b2.avif', label: '3. krok', alt: 'Třetí krok balení budov' },
+    { src: '/img/enak/v2/baleni/b1.avif', label: '4. krok', alt: 'Čtvrtý krok balení budov' },
+  ]"
+/>
 
-TODO
-
-<!--<Inline style="width:49%;">/img/enak/package.webp</Inline> <Inline style="width:49%;">/img/enak/package1.webp</Inline>-->
+Chladící věže (v krabici jsou i nástroje na vyndání difuzérů):
+<center><Inline style="width:75%;">/img/enak/v2/baleni/veze.avif</Inline></center>
 :::
 
 ### Access Point / Router
@@ -264,12 +269,9 @@ Všechny desky krajiny rozdělíme mezi žáky a necháme je poskládat si na la
 - díl vároby plynovka + OZE
 - díl ukazující výroba = spotřeba
 
-Rozvodnu lze zapojit do jakéhokoliv ze tří konektorů ve vykouslé části hlavní desky. Stejně tak lze elektrárny zapojit do jakéhokoliv ze 12 portu v rozvodně (krom vstupního).
+Rozvodnu lze zapojit do jakéhokoliv ze tří konektorů ve vykouslé části hlavní desky. Stejně tak lze elektrárny zapojit do jakéhokoliv ze 12 portů v rozvodně (krom vstupního). Rozvodnu připojte následujícím způsobem:
 
-TODO: VYMENIT OBRAZEK
-![enak rozvodna](/img/enak/rozvodna.jpg)
-
-kterou lektor připojí do ovládacího panelu (označeno modrou šipkou), druhá strana kabelu je v rozvodné stanici na straně kde je pouze jeden kabel (označeno červenou šipkou). Samotné elektrárny se připojují do zbylých deseti portů (označeno fialově).
+![enak rozvodna](/img/enak/v2/baleni/rozvodna.avif)
 
 :::info Indikace elekrárnen
 každá z elektráren má svou indikační diodu, která je vedle vstupního USB-C portu do elektrárny a zobrazuje její stav. Pokud je fialová, elektárně se nepodařila komunikace s rozvodnou. Pokud je na škále zelená-žlutá-červená, zobrazuje její stav a procento výroby, tedy s rozvodnou správně komunikuje.
